@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**PedroVitorSantos/PedroVitorSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Pedro Vitor Santos** 
+![Koala](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mOV0XoUw2c6cH4dGliPfX9OVtYXIRpH6fA&usqp=CAU)
+<hr>
 
-Here are some ideas to get you started:
+* Idade: 16 anos 
+* Cidade: Marília-SP
+* Curso: MTEC-PI DS (desenvolvimento de sistemas)
+* Escola: Etec Antonio Devisate
+* Ensino Médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## _Pão de queijo é bão_ 
+
+<hr>
+
+### **E-mail para contato é: pedro.ramos58@etec.sp.gov.br**
